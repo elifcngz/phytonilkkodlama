@@ -5,7 +5,7 @@ def flatten(n):
         if isinstance(i, list):
             flatten(i)
         else:
-            lnew.append(i)
+            listnew.append(i)
 
 flatten(l)
 print(listnew)
