@@ -1,4 +1,5 @@
-##VERİ BİLİMİNİN GİRİŞ KAPISI
+## VERİ BİLİMİNİN GİRİŞ KAPISI
+
 Teknoloji çağında yaşıyorken verilerin bize her an büyük bir yığın gibi görünmesi kaçınılmaz diyebiliriz. Peki verilerin her an her yerde karşımıza çıktığı bu dönemde veri biliminin rolü ne? Çoğu şirket, kurum ve kuruluş verilerden oluşan bir hazine sandığına sahip fakat bu sandık karışmasın diye bize bir düzenleyici gerekmez mi? İşte tam da bu noktada veri bilimi devreye giriyor. Veri bilimi makine öğrenmesi ve yapay zeka birbiri ile alakalı terimlerken ve herkesin bu kelimeleri sık sık kullanıp anlamını bilmemeleri üzerine size biraz bahsetmek istedim. Bu yazıma bu terimleri öğrenerek başlayabiliriz bence. Daha sonra
 
 Yapay zekâ bilgisayarın insan davranışını bir biçimde taklit etmesini sağlamak anlamına gelir.
